@@ -1,5 +1,3 @@
-# caitlincjohnson
-
 Hello all 👋 
 
 My name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Thank you for taking the time to read my profile and shown below is a little bit more about me.
