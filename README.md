@@ -6,7 +6,15 @@ My name is Caitlin, but sometimes I go by CJ if that's easier for you to remembe
 
 ## Professional Experience
 ![image](https://user-images.githubusercontent.com/35669839/205793281-9c3f7ae3-e9ed-44e8-8e72-0a1b1b48e4fe.png)
-Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I first joined Zeeto, a fast-paced startup in San Diego. Since then I've seen a variety of data engineering practices which has grown my professional background and helped me gain appreciation for best practices. Here's my resume if you want a bigger picture of my current work experience: [Resume PDF](https://drive.google.com/file/d/1001cWpr-Dj31uAi_rw3r0Lal0-N8MGEM/view?usp=sharing).
+Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I first joined Zeeto, a fast-paced startup in San Diego. Since then I've seen a variety of data engineering practices which has grown my professional background and helped me gain appreciation for best practices. Shown below is a short summary of what I'm familiar with:
+
+- Languages: Python, SQL, JavaScript/ReactJS
+- Relational Databases: Snowflake Cloud Data Warehouse, PostgreSQL, MySQL, Microsoft SQL Server
+- NoSQL Databases: Apache Cassandra, MongoDB
+- Technologies: Amazon Web Services (AWS), Looker, Git, Prefect, Docker, Terminal
+- Development Strategies: Functional programming, object-oriented programming, pair/mob programming, test-driven development, behavior-driven development, model-view-controller
+
+Here's my resume if you want a more detailed picture of my current work experience: [Resume PDF](https://drive.google.com/file/d/1001cWpr-Dj31uAi_rw3r0Lal0-N8MGEM/view?usp=sharing).
 
 Recently, I sparked a significant interest in Machine Learning and Artificial Intelligence, so I created a Github repository to showcase my current learnings, projects, referenced resources, and more. It can be found here: https://github.com/caitlincjohnson/machine-learning
 
