@@ -1,6 +1,6 @@
 Hello all 👋 
 
-My name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Thank you for taking the time to read my profile and shown below is a little bit more about me.
+My name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Shown below is a little bit more about me and thank you for taking the time to read my profile and .
 
 ## Professional Experience
 ![image](https://user-images.githubusercontent.com/35669839/205793281-9c3f7ae3-e9ed-44e8-8e72-0a1b1b48e4fe.png)
@@ -18,6 +18,10 @@ Recently, I sparked a significant interest in Machine Learning and Artificial In
 
 ## Personal Life
 ![362FEB86-C091-49DA-B1A9-BDA5517159AA-682-000001CC82496EF1 2](https://user-images.githubusercontent.com/35669839/205796559-3650300a-65c3-46d5-b0bf-11fc063d7f4c.jpg)
-I love, love, __love__ to take photos. If you see me in public, there's a good chance that I've got my Fujifilm camera with me. Aside from that, I love to travel to lesser known places with intention, as I always intend to learn a little bit about the native language(s), cuisines, and whatnot. Definitely feel free to ask about my trip to Bolivia and northern Chile, as those were some of my favorite places. And of course, my homeland in Poland.
+I live on a farm so "free time" is a bit limited for me, but shown below are some of my hobbies:
+
+- Taking photos. If you see me in public, there's a good chance that I've got my Fujifilm camera with me. 
+- Traveling to lesser known places with intention. I always intend to learn a little bit about the native language(s), cuisines, and whatnot. Some of my favorite places so far are Bolivia, Chile, and Chiapas (Mexico).
+- Learning about my Polish heritage and culture.
 
 Again thank you for taking the time to read my profile, and please reach out if you'd like additional information about my professional experience or would like to collaborate on a project!
