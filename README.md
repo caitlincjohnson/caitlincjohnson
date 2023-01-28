@@ -16,6 +16,11 @@ Here's my resume if you want a more detailed picture of my current work experien
 
 Recently, I sparked a significant interest in Machine Learning and Artificial Intelligence, so I created a Github repository to showcase my current learnings, projects, referenced resources, and more. It can be found here: https://github.com/caitlincjohnson/machine-learning
 
+### Publications
+
+Shown below are my current publications on Medium:
+- https://medium.com/swlh/building-a-python-data-pipeline-to-apache-cassandra-on-a-docker-container-fc757fbfafdd
+
 ## Personal Life
 ![362FEB86-C091-49DA-B1A9-BDA5517159AA-682-000001CC82496EF1 2](https://user-images.githubusercontent.com/35669839/205796559-3650300a-65c3-46d5-b0bf-11fc063d7f4c.jpg)
 I live on a farm so "free time" is a bit limited for me, but shown below are some of my hobbies:
