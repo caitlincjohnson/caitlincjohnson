@@ -9,8 +9,9 @@ Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I
 
 - Languages: Python, SQL, JavaScript/ReactJS
 - Relational Databases: Snowflake Cloud Data Warehouse, PostgreSQL, MySQL, Microsoft SQL Server
+- Cloud Platforms: Snowflake Cloud Data Warehouse, Amazon Web Services (AWS)
 - NoSQL Databases: Apache Cassandra, MongoDB
-- Technologies: Amazon Web Services (AWS), Looker, Git, Prefect, Docker, Terminal
+- Technologies: Airflow, Looker, Git, Docker, Prefect
 - Development Strategies: Functional programming, object-oriented programming, pair/mob programming, test-driven development, behavior-driven development, model-view-controller
 
 Here's my resume if you want a more detailed picture of my current work experience: [Resume PDF](https://drive.google.com/file/d/1001cWpr-Dj31uAi_rw3r0Lal0-N8MGEM/view?usp=sharing).
