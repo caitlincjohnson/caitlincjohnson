@@ -1,6 +1,4 @@
-Hello all 👋 
-
-My name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Shown below is a little bit more about me and thank you for taking the time to read my profile.
+Hello all 👋 my name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Shown below is a little bit more about me and thank you for taking the time to read my profile.
 
 ## Professional Experience
 <img src="https://user-images.githubusercontent.com/35669839/205793281-9c3f7ae3-e9ed-44e8-8e72-0a1b1b48e4fe.png" width=50%>
