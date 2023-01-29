@@ -3,7 +3,8 @@ Hello all 👋
 My name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Shown below is a little bit more about me and thank you for taking the time to read my profile and .
 
 ## Professional Experience
-![image](https://user-images.githubusercontent.com/35669839/205793281-9c3f7ae3-e9ed-44e8-8e72-0a1b1b48e4fe.png)
+<img src="https://user-images.githubusercontent.com/35669839/205793281-9c3f7ae3-e9ed-44e8-8e72-0a1b1b48e4fe.png" width=50%>
+
 Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I first joined Zeeto, a fast-paced startup in San Diego. Since then I've seen a variety of data engineering practices which has grown my professional background and helped me gain appreciation for best practices. Shown below is a short summary of what I'm familiar with:
 
 - Languages: Python, SQL, JavaScript/ReactJS
