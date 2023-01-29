@@ -12,9 +12,7 @@ Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I
 - Technologies: Airflow, Looker, Git, Docker, Prefect
 - Development Strategies: Functional programming, object-oriented programming, pair/mob programming, test-driven development, behavior-driven development, model-view-controller
 
-Here's my resume if you want a more detailed picture of my current work experience: [Resume PDF](https://drive.google.com/file/d/1001cWpr-Dj31uAi_rw3r0Lal0-N8MGEM/view?usp=sharing).
-
-Recently, I sparked a significant interest in Machine Learning and Artificial Intelligence, so I created a Github repository to showcase my current learnings, projects, referenced resources, and more. It can be found here: https://github.com/caitlincjohnson/machine-learning
+Here's my LinkedIn if you want a more detailed picture of my current work experience: https://www.linkedin.com/in/caitlinchristinejohnson/
 
 ### Publications
 
