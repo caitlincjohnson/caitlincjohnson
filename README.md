@@ -6,7 +6,7 @@ Hello all 👋 my name is Caitlin, but sometimes I go by CJ if that's easier for
 Yep, that's me in the photo. I've been a Data Engineer since October 2018 when I first joined Zeeto, a fast-paced startup in San Diego. Since then I've seen a variety of data engineering practices which has grown my professional background and helped me gain appreciation for best practices. Shown below is a short summary of what I'm familiar with:
 
 - Languages: Python, SQL, JavaScript/ReactJS
-- Relational Databases: Snowflake Cloud Data Warehouse, PostgreSQL, MySQL, Microsoft SQL Server
+- Relational Databases: PostgreSQL, MySQL, Microsoft SQL Server
 - Cloud Platforms: Snowflake Cloud Data Warehouse, Amazon Web Services (AWS)
 - NoSQL Databases: Apache Cassandra, MongoDB
 - Technologies: Airflow, Looker, Git, Docker, Prefect
