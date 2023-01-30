@@ -1,4 +1,5 @@
 ![362FEB86-C091-49DA-B1A9-BDA5517159AA-682-000001CC82496EF1 2](https://user-images.githubusercontent.com/35669839/205796559-3650300a-65c3-46d5-b0bf-11fc063d7f4c.jpg)
+
 Hello all 👋 my name is Caitlin, but sometimes I go by CJ if that's easier for you to remember. Shown below is a little bit more about me and thank you for taking the time to read my profile.
 
 ## Professional Experience
