@@ -18,6 +18,7 @@ Here's my LinkedIn if you want a more detailed picture of my current work experi
 
 Shown below are my current publications on Medium:
 - https://medium.com/swlh/building-a-python-data-pipeline-to-apache-cassandra-on-a-docker-container-fc757fbfafdd
+- https://medium.com/@caitlin.johnson/working-around-aws-mwaas-limitations-for-custom-images-71e0f9b76e4
 
 ## Personal Life
 I live on a farm so "free time" is a bit limited for me, but shown below are some of my hobbies:
