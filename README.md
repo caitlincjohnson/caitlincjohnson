@@ -21,7 +21,7 @@ Shown below are my current publications on Medium:
 - https://medium.com/@caitlin.johnson/working-around-aws-mwaas-limitations-for-custom-images-71e0f9b76e4
 
 ## Personal Life
-I live on a farm so "free time" is a bit limited for me, but shown below are some of my hobbies:
+My hobbies change on a monthly basis, but here are some of the latest ones I've taken on:
 
 - Taking photos. If you see me in public, there's a good chance that I've got my Fujifilm camera with me. 
 - Traveling to lesser known places with intention. I always intend to learn a little bit about the native language(s), cuisines, and whatnot. Some of my favorite places so far are Bolivia, Chile, and Chiapas (Mexico).
