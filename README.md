@@ -25,6 +25,6 @@ My hobbies change on a monthly basis, but here are some of the latest ones I've 
 
 - Taking photos. If you see me in public, there's a good chance that I've got my Fujifilm camera with me. 
 - Traveling to lesser known places with intention. I always intend to learn a little bit about the native language(s), cuisines, and whatnot. Some of my favorite places so far are Bolivia, Chile, and Chiapas (Mexico).
-- Learning about my Polish heritage and culture.
+- Learning Polish.
 
 Again thank you for taking the time to read my profile, and please reach out if you'd like additional information about my professional experience or would like to collaborate on a project!
